@@ -2,24 +2,6 @@
 
 A lightweight, browser-based geolocation web application that retrieves and displays user coordinates with integrated Google Maps integration.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Quick Start](#quick-start)
-- [How It Works](#how-it-works)
-- [API Reference](#api-reference)
-- [Browser Compatibility](#browser-compatibility)
-- [Usage](#usage)
-- [Permissions](#permissions)
-- [Troubleshooting](#troubleshooting)
-- [Security Considerations](#security-considerations)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Location-Finder is a simple yet powerful web application designed to retrieve user geolocation data with a single click. The application leverages the HTML5 Geolocation API to access device coordinates and provides seamless integration with Google Maps for real-time location visualization.
